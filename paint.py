@@ -9,10 +9,35 @@ Exercises
 5. Add width parameter.
 """
 
-from turtle import *
+from turtle import up
+
+from turtle import goto
+
+from turtle import down
+
+from turtle import begin_fill
+
+from turtle import forward
+
+from turtle import left
+
+from turtle import end_fill
+
+from turtle import setup
+
+from turtle import onscreenclick
+
+from turtle import listen
+
+from turtle import onkey
+
+from turtle import color
+
+from turtle import undo
+
+from turtle import done
 
 from freegames import vector
-
 
 def line(start, end):
     """Draw line from start to end."""
