@@ -39,6 +39,7 @@ from turtle import done
 
 from freegames import vector
 
+
 def line(start, end):
     """Draw line from start to end."""
     up()
